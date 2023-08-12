@@ -37,8 +37,8 @@ Before running the application, make sure you have the following installed:
 
 ## Getting Started For Windows Linux Mac User
 
-1. Clone the repository: `git clone https://github.com/technicalhayden/FaceLink.git`
-2. `cd FaceLink `<br>
+1. Clone the repository: `git clone https://github.com/code-glitchers/FaceLinks.git`
+2. `cd FaceLinks `<br>
 3. `pip install -r requirements.txt`<br>
 4. Go to [facecheck.id](https://facecheck.id/)/.
 5. Sign up for an account or log in if you already have one
